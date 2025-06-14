@@ -1,0 +1,5 @@
+Model,Val Accuracy,Val Loss,Training Time (s)
+Initial Model,0.3037,3.4588,63.5469
+Improved Model 1,0.2854,3.8263,86.9885
+Improved Model 2,0.2755,3.4624,132.3054
+BN+Dropout Model,0.2614,3.797,197.3934
